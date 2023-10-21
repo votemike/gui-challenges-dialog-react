@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gui-challenges-dialog-react/static/css/main.073c9b0a.css",
+    "main.js": "/gui-challenges-dialog-react/static/js/main.54e76b12.js",
+    "static/js/787.2933b29c.chunk.js": "/gui-challenges-dialog-react/static/js/787.2933b29c.chunk.js",
+    "static/media/logo.svg": "/gui-challenges-dialog-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gui-challenges-dialog-react/index.html",
+    "main.073c9b0a.css.map": "/gui-challenges-dialog-react/static/css/main.073c9b0a.css.map",
+    "main.54e76b12.js.map": "/gui-challenges-dialog-react/static/js/main.54e76b12.js.map",
+    "787.2933b29c.chunk.js.map": "/gui-challenges-dialog-react/static/js/787.2933b29c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54e76b12.js"
+  ]
+}
